@@ -46,5 +46,5 @@ http://localhost/resume/Sri_maligireddy.php
 ---
 
 ## **Author**
-**Neeraj**  
+**Sri Malligireddy**  
 GitHub: [https://github.com/srim222](https://github.com/srim222)
